@@ -1,0 +1,9 @@
+Department
+int:ID,varchar:Dept_Name
+RECORDS_START
+1,programming
+2,music
+3,7mada
+4,7mada2
+5,salama
+6,arsany

@@ -1,0 +1,3 @@
+Course
+int:Id,varchar:Name
+RECORDS_START

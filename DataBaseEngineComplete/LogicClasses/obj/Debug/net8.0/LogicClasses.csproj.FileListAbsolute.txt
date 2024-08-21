@@ -1,0 +1,35 @@
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.deps.json
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.dll
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.pdb
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.GeneratedMSBuildEditorConfig.editorconfig
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.AssemblyInfoInputs.cache
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.AssemblyInfo.cs
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.csproj.CoreCompileInputs.cache
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.dll
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\refint\LogicClasses.dll
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.pdb
+D:\Courses\DEPI\Technical\2- C#\Final Project (Reflection)\My Work\Reflection\LogicClasses\obj\Debug\net8.0\ref\LogicClasses.dll
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.deps.json
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.dll
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.pdb
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.AssemblyInfoInputs.cache
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.AssemblyInfo.cs
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.csproj.CoreCompileInputs.cache
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.sourcelink.json
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.dll
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\refint\LogicClasses.dll
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.pdb
+C:\Users\ARSANY\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\ref\LogicClasses.dll
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.deps.json
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.dll
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\bin\Debug\net8.0\LogicClasses.pdb
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.sourcelink.json
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.dll
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\refint\LogicClasses.dll
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\LogicClasses.pdb
+C:\Users\LENOVO\Desktop\Reflection\LogicClasses\obj\Debug\net8.0\ref\LogicClasses.dll

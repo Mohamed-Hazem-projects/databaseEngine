@@ -1,0 +1,6 @@
+Student
+int:Id,varchar:Name,int:Age
+RECORDS_START
+2,ali,34
+3,eeee,23
+5,tot,56
